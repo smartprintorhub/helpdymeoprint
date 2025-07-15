@@ -28,7 +28,7 @@ Complete Guide: How to set up my Dymo printer?
 
 
 
-Setting up your LabelWriter is quick and easy with a few basic steps. Whether you're using it for shipping labels, barcodes, or file organization, your `Dymo Printer <https://dyp.redircoms.com>`_ is ready to deliver high-quality results. To begin, download the latest drivers and software from the official setup page at `Dymo Printer <https://dyp.redircoms.com>`_.
+Setting up your LabelWriter is quick and easy with a few basic steps. Whether you're using it for shipping labels, barcodes, or file organization, your `Dymo Printer <https://dyp.redircoms.com>`_ is ready to deliver high-quality results. To begin, download the latest drivers and software from the official setup page at Dymo Printer.
 
 What You Need Before You Start
 ------------------------------
