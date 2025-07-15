@@ -1,5 +1,5 @@
 ##################
-Complete Guide: How to set up my Dymo LabelWriter printer?
+Complete Guide: How to set up my Dymo printer?
 ##################
 
 .. meta::
