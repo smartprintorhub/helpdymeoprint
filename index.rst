@@ -1,9 +1,9 @@
 ##################
-How to set up my LabelWriter printer? - Dymo
+Complete Guide: How to set up my Dymo LabelWriter printer?
 ##################
 
 .. meta::
-   :msvalidate.01: 51D86F3827D403B2FE6D81FEFE6D97FC
+   :msvalidate.01: 976EEDB16D7FBECFFF12CAAD22317912
 
 .. image:: blank.png
       :width: 350px
